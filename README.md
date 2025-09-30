@@ -22,6 +22,7 @@ class AboutMe:
         ]
     )
 ```
+
 <div align="justify">
 Sólida experiência em gestão administrativa e operacional, incluindo a criação de sistemas proprietários para otimizar processos e resultados. Atuação com foco em análise de dados para apoiar decisões estratégicas, com expertise em Business Intelligence, FP&A, Analytics Engineering e Automação. Domínio de ferramentas como Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow e n8n. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
 </div>
@@ -35,4 +36,11 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 </div>
 
+
+<a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&card_width=200" />
+</a>
+<a href="https://github.com/rafa-trindade/dashboard-elisaagro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&card_width=200" />
+</a>
 
