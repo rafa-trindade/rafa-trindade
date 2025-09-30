@@ -51,17 +51,17 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 ```python
 @dataclass
-class Projeto:
-    nome: str
-    descricao: str
-    tecnologias: List[str]
+class Project:
+    name: str
+    description: str
+    technologies: List[str]
 
 @dataclass
 class Portfolio:
-    projetos: List[Projeto] = field(default_factory=list)
+    projects: List[Project] = field(default_factory=list)
 
 portfolio = Portfolio(
-    projetos=[
+    projects=[
 ```
 
 <div align="center">
