@@ -1,16 +1,28 @@
-## Hi there 👋
-
-<!--
-**rafa-trindade/rafa-trindade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+@dataclass
+class AboutMe:
+  
+    name: str = "Rafael Araujo Trindade"
+    
+    profession: str = "Data & Analytics Professional"
+    
+    preferred_tech_stack: List[str] = field(
+        default_factory=lambda: [
+            "Power BI", "SQL", "Python", "dbt", 
+            "Snowflake", "Databricks", "Airflow", "n8n"
+        ]
+    )
+    
+    applied_in: List[str] = field(
+        default_factory=lambda: [
+            "Business Intelligence",
+            "Data Analytics",
+            "Analytics Engineering",
+            "Workflow Automation"
+        ]
+    )
+```
+<div align="justify">
+    Profissional com sólida experiência em gestão e visão estratégica, com foco em análise de dados para apoiar decisões críticas. Expertise em BI, FP&A, Analytics Engineering e Automação, com domínio de Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow e n8n. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
+  </p>
+</div>
