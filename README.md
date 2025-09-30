@@ -51,24 +51,13 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 <div align="center">
 
-<a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
-<a href="https://github.com/rafa-trindade/dashboard-elisaagro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
-<a href="https://github.com/rafa-trindade/pdp-hospedagem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
-<a href="https://github.com/rafa-trindade/controle-contas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
-<a href="https://github.com/rafa-trindade/web-embritania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
-<a href="https://github.com/rafa-trindade/rafa-trindade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
-</a>
+[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/dashboard-grupotamburi)
+[![Dashboard ElisaAgro](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/dashboard-elisaagro)
+[![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
+[![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
+[![Web Embritania](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/web-embritania)
+[![Rafa Trindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/rafa-trindade)
+
 
 </div>
 
