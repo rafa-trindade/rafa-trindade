@@ -23,6 +23,5 @@ class AboutMe:
     )
 ```
 <div align="justify">
-    Profissional com sólida experiência em gestão e visão estratégica, com foco em análise de dados para apoiar decisões críticas. Expertise em BI, FP&A, Analytics Engineering e Automação, com domínio de Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow e n8n. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
-  </p>
+Sólida experiência em gestão e visão estratégica, com foco em análise de dados para apoiar decisões críticas. Expertise em BI, FP&A, Analytics Engineering e Automação, com domínio de Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow e n8n. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
 </div>
