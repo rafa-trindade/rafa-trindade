@@ -49,6 +49,8 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=true&radius=10&height=350&bg_color=151B23&line=2B5482&point=2B5482)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 
 <a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
