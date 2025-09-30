@@ -1,7 +1,7 @@
 <div align="right">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2c5a95?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
-[![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2c5a95?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B5482?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
+[![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2B5482?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
 
 </div>
 
@@ -38,14 +38,14 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 <div align="center">
 
-![Gestão](https://img.shields.io/badge/-Gestão-2c5a95?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2c5a95?style=flat-square)
-![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2c5a95?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2c5a95?style=flat-square)
-![Data Quality](https://img.shields.io/badge/-Data%20Quality-2c5a95?style=flat-square)
-![Data Governance](https://img.shields.io/badge/-Data%20Governance-2c5a95?style=flat-square)
-![Observability](https://img.shields.io/badge/-Observability-2c5a95?style=flat-square)
-![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2c5a95?style=flat-square)
+![Gestão](https://img.shields.io/badge/-Gestão-2B5482?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2B5482?style=flat-square)
+![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat-square)
+![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat-square)
+![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat-square)
+![Observability](https://img.shields.io/badge/-Observability-2B5482?style=flat-square)
+![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat-square)
 
 </div>
 
