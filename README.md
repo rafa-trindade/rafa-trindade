@@ -36,6 +36,7 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 </div>
 
+<div align="center">
 
 <a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&card_width=200" />
@@ -43,4 +44,6 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 <a href="https://github.com/rafa-trindade/dashboard-elisaagro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&card_width=200" />
 </a>
+
+</div>
 
