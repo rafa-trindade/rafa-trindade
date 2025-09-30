@@ -38,38 +38,40 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 <div align="center">
 
-![Gestão](https://img.shields.io/badge/-Gestão-2B5482?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2B5482?style=flat-square)
-![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat-square)
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat-square)
-![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat-square)
-![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat-square)
-![Observability](https://img.shields.io/badge/-Observability-2B5482?style=flat-square)
-![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat-square)
+![Gestão](https://img.shields.io/badge/-Gestão-2c5a95?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2c5a95?style=flat-square)
+![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2c5a95?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2c5a95?style=flat-square)
+![Data Quality](https://img.shields.io/badge/-Data%20Quality-2c5a95?style=flat-square)
+![Data Governance](https://img.shields.io/badge/-Data%20Governance-2c5a95?style=flat-square)
+![Observability](https://img.shields.io/badge/-Observability-2c5a95?style=flat-square)
+![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2c5a95?style=flat-square)
 
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=true&radius=10&height=350&bg_color=151B23&line=2B5482&point=2B5482)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
 <a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 <a href="https://github.com/rafa-trindade/dashboard-elisaagro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 <a href="https://github.com/rafa-trindade/pdp-hospedagem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 <a href="https://github.com/rafa-trindade/controle-contas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 <a href="https://github.com/rafa-trindade/web-embritania">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 <a href="https://github.com/rafa-trindade/rafa-trindade">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
 </a>
 
 </div>
+
+</br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=true&radius=10&height=350&bg_color=151B23&line=2c5a95&point=2B5482)](https://github.com/ashutosh00710/github-readme-activity-graph)
