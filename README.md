@@ -1,7 +1,7 @@
 <div align="right">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B5482?style=flat-square&logo=LinkedIn&logoColor=fff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
-[![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2B5482?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2c5a95?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
+[![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2c5a95?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
 
 </div>
 
@@ -46,6 +46,23 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat-square)
 ![Observability](https://img.shields.io/badge/-Observability-2B5482?style=flat-square)
 ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat-square)
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/rafa-trindade/dashboard-elisaagro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/rafa-trindade/pdp-hospedagem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/rafa-trindade/web-embritania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
 
 </div>
 
