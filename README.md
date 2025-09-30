@@ -49,6 +49,21 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 </div>
 
+```python
+@dataclass
+class Projeto:
+    nome: str
+    descricao: str
+    tecnologias: List[str]
+
+@dataclass
+class Portfolio:
+    projetos: List[Projeto] = field(default_factory=list)
+
+portfolio = Portfolio(
+    projetos=[
+```
+
 <div align="center">
 
 [![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/dashboard-grupotamburi)
@@ -60,5 +75,10 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 
 
 </div>
+
+```python
+    ]
+)
+```
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=true&radius=10&height=350&bg_color=151B23&line=2c5a95&point=2B5482)](https://github.com/ashutosh00710/github-readme-activity-graph)
