@@ -39,11 +39,16 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 <div align="center">
 
 <a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&card_width=200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
 </a>
 <a href="https://github.com/rafa-trindade/dashboard-elisaagro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&card_width=200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/rafa-trindade/pdp-hospedagem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
+</a>
+<a href="https://github.com/rafa-trindade/web-embritania">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
 </a>
 
 </div>
-
