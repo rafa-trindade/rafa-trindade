@@ -47,6 +47,9 @@ Sólida experiência em gestão administrativa e operacional, incluindo a criaç
 ![Observability](https://img.shields.io/badge/-Observability-2B5482?style=flat-square)
 ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat-square)
 
+</div>
+
+<div align="center">
 
 <a href="https://github.com/rafa-trindade/dashboard-grupotamburi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-grupotamburi&theme=github_dark_dimmed&show_owner=true&description_lines_count=2" />
