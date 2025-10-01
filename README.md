@@ -23,7 +23,6 @@ class AboutMe:
     applied_in: List[str] = field(
         default_factory=lambda: [
             "Business Intelligence",
-            "Data Analytics",
             "Analytics Engineering",
             "Workflow Automation"
         ]
