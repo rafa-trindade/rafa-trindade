@@ -65,7 +65,7 @@ portfolio = Portfolio(
 
 <div align="center">
 
-[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-mhrefeicoes&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/b2b-mhrefeicoes)
+[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/b2b-grupotamburi)
 [![Dashboard ElisaAgro](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=dashboard-elisaagro&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/dashboard-elisaagro)
 [![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
 [![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
