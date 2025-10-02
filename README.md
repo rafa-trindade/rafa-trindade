@@ -16,16 +16,17 @@ class AboutMe:
     preferred_tech_stack: List[str] = field(
         default_factory=lambda: [
             "Power BI", "SQL", "Python", "dbt", 
-            "Snowflake", "Databricks", "Airflow"
+            "Snowflake", "Databricks", 
+            "Docker", "Airflow", "Kubernetes"
         ]
     )
     
     applied_in: List[str] = field(
         default_factory=lambda: [
-        "Business Intelligence",
-        "Analytics Engineering",
-        "Data Engineering",
-        "Workflow Automation"
+            "Business Intelligence",
+            "Analytics Engineering",
+            "Data Engineering",
+            "Workflow Automation"
         ]
     )
 ```
