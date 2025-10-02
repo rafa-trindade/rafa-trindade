@@ -16,7 +16,7 @@ class AboutMe:
     preferred_tech_stack: List[str] = field(
         default_factory=lambda: [
             "Power BI", "SQL", "Python", "dbt", 
-            "Snowflake", "Databricks", "Airflow", "n8n"
+            "Snowflake", "Databricks", "Airflow"
         ]
     )
     
