@@ -22,9 +22,10 @@ class AboutMe:
     
     applied_in: List[str] = field(
         default_factory=lambda: [
-            "Business Intelligence",
-            "Analytics Engineering",
-            "Workflow Automation"
+        "Business Intelligence",
+        "Analytics Engineering",
+        "Data Engineering",
+        "Workflow Automation"
         ]
     )
 ```
