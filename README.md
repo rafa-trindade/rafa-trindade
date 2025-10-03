@@ -1,6 +1,6 @@
 <div align="right">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2B5482?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
+[![Linkedin Badge](https://img.shields.io/badge/-in/rafatrindade-2B5482?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
 [![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2B5482?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
 
 </div>
