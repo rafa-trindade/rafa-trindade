@@ -67,14 +67,14 @@ portfolio = Portfolio(
 
 <div align="center">
   
-[![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/bi-rafatrindade)
-[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/b2b-grupotamburi)
-[![PetStore Crawler](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-crawle&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/petstore-crawle)
-[![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
-[![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
-[![Web Embritania](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/web-embritania)
-[![Data Faker](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=datafaker-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/datafaker-rafatrindade)
-[![Rafa Trindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/rafa-trindade)
+[![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/bi-rafatrindade)
+[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/b2b-grupotamburi)
+[![PetStore Crawler](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-crawler&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/petstore-crawle)
+[![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
+[![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
+[![Web Embritania](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/web-embritania)
+[![Data Faker](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=datafaker-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/datafaker-rafatrindade)
+[![Rafa Trindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/rafa-trindade)
 
 
 </div>
