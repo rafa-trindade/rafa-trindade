@@ -67,12 +67,84 @@ portfolio = Portfolio(
 
 <div align="center">
   
-[![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/bi-rafatrindade)
-[![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/b2b-grupotamburi)
-[![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
-[![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
-[![Web Embritania](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/web-embritania)
-[![Data Faker](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=datafaker-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/datafaker-rafatrindade)
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/bi-rafatrindade">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/bi-rafatrindade">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+        <a href="https://bi-rafatrindade.streamlit.app/">
+          <img src="https://img.shields.io/badge/-Live-2B5482?style=flat-square&logo=streamlit&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/b2b-grupotamburi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/b2b-grupotamburi">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+        <a href="https://mh-grupotamburi.streamlit.app/">
+          <img src="https://img.shields.io/badge/-Live-2B5482?style=flat-square&logo=streamlit&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/pdp-hospedagem">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/pdp-hospedagem">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/controle-contas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/controle-contas">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/web-embritania">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/web-embritania">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <a href="https://github.com/rafa-trindade/datafaker-rafatrindade">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=datafaker-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23" />
+      </a><br>
+      <div align="left">
+        <a href="https://github.com/rafa-trindade/datafaker-rafatrindade">
+          <img src="https://img.shields.io/badge/-Projeto-2B5482?style=flat-square&logo=github&logoColor=fff" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 <!--[![Rafa Trindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23)](https://github.com/rafa-trindade/rafa-trindade)-->
 
 
