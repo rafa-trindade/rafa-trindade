@@ -69,7 +69,7 @@ portfolio = Portfolio(
   
 [![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/bi-rafatrindade)
 [![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/b2b-grupotamburi)
-[![PetStore Crawler](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-crawler&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/petstore-crawler)
+[![PetStore Ccraping](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-scraping&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/petstore-scraping)
 [![PetStore BI](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-bi&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/petstore-bi)
 [![PDP Hospedagem](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/pdp-hospedagem)
 [![Controle Contas](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=controle-contas&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/controle-contas)
