@@ -42,6 +42,7 @@ Sólida experiência em gestão financeira e operacional, incluindo o desenvolvi
 ![Gestão](https://img.shields.io/badge/-Gestão-2B5482?style=flat-square)
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2B5482?style=flat-square)
 ![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat-square)
+![Modern Data Stack](https://img.shields.io/badge/-Modern%20Data%20Stack-2B5482?style=flat-square)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat-square)
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat-square)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat-square)
