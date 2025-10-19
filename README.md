@@ -80,7 +80,6 @@ portfolio = Portfolio(
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=controle-contas,web-embritania&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Rafa Trindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=rafa-trindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23)](https://github.com/rafa-trindade/rafa-trindade)-->
 
-
 </div>
 
 ```python
