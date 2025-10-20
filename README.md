@@ -67,9 +67,9 @@ portfolio = Portfolio(
 
 <div align="center">
 
+[![PetStore Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-pipeline&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-pipeline)
 [![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/bi-rafatrindade)
 [![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/b2b-grupotamburi)
-[![PetStore Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-pipeline&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-pipeline)
 [![PetStore Scraping](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-scraping&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-scraping)
 [![PetStore Transform Load](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-etl&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-etl)
 [![PetStore BI](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-bi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10&langs_count=10)](https://github.com/rafa-trindade/petstore-bi)
