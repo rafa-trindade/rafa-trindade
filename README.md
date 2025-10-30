@@ -68,7 +68,7 @@ portfolio = Portfolio(
 <div align="center">
   
 [![PetStore Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-pipeline&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-pipeline)
-[![pdp-analytics-engineer](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-analytics-engineer&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/pdp-analytics-engineer)
+[![pdp-analytics-engineering](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-analytics-engineering&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/pdp-analytics-engineering)
 [![BI rafatrindade](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/bi-rafatrindade)
 [![Dashboard Grupotamburi](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/b2b-grupotamburi)
 [![PetStore Scraping](https://github-readme-stats.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-scraping&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/petstore-scraping)
