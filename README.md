@@ -32,7 +32,7 @@ class AboutMe:
 ```
 
 <div align="justify">
-Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em engenharia e análise de dados para apoiar decisões estratégicas, com expertise em Business Intelligence, Analytics Engineering e Automação. Domínio de ferramentas como Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
+Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em engenharia e análise de dados para apoiar decisões estratégicas, com expertise em Business Intelligence, Data & Analytics Engineering e Automação. Domínio de ferramentas como Power BI, dbt, SQL, Python, Snowflake, Databricks, Airflow. Apaixonado por transformar dados em insights estratégicos, otimizar processos e apoiar decisões críticas. Aberto a projetos desafiadores que impactem resultados.
 </div>
 
 </br>
