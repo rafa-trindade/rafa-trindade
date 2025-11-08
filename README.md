@@ -1,7 +1,7 @@
 <div align="right">
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfólio-2B5482?style=flat&logo=github&logoColor=fffff&labelColor=1D3557&link=https://rafa-trindade.github.io/)](https://rafa-trindade.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-in/rafatrindade-2B5482?style=flat&logo=LinkedIn&logoColor=fffff&labelColor=1D3557&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
+[![Linkedin Badge](https://img.shields.io/badge/-in/rafatrindade-2B5482?style=flat&logo=square&logoColor=fffff&labelColor=1D3557&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
 [![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2B5482?style=flat&logo=Gmail&logoColor=fff&labelColor=1D3557&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
 
 </div>
