@@ -1,5 +1,6 @@
 <div align="right">
 
+[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-1D3557?style=flat-square&logo=github&logoColor=fffff&link=https://rafa-trindade.github.io/)](https://rafa-trindade.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-in/rafatrindade-2B5482?style=flat-square&logo=LinkedIn&logoColor=fffff&link=https://www.linkedin.com/in/rafatrindade/)](https://www.linkedin.com/in/rafatrindade/)
 [![Gmail Badge](https://img.shields.io/badge/-rafatrindade.exe@gmail.com-2B5482?style=flat-square&logo=Gmail&logoColor=fff&link=mailto:rafatrindade.exe@gmail.com)](mailto:rafatrindade.exe@gmail.com)
 
@@ -49,18 +50,6 @@ Sólida experiência em gestão financeira e operacional, incluindo o desenvolvi
 ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat-square)
 
 </div>
-
-<div align="center">
-
-[![Databricks Fundamentals](https://i.postimg.cc/VN8PzqcQ/databricks-fundamentals.png)](https://credentials.databricks.com/1ddd8ad3-0432-4d6b-a280-251f3b7e929a)&nbsp;
-[![Airflow Fundamentals](https://i.postimg.cc/rpk2q12B/airflow-fundamentals.png)](https://www.credly.com/badges/e009d579-a996-4083-858f-efa7224a7659/linked_in_profile)&nbsp;
-[![Airflow DAGs](https://i.postimg.cc/6QXxBrxF/airflow-dag.png)](https://www.credly.com/badges/a758b9c7-ce8f-4a03-bd88-6db21ed6f067/linked_in_profile)&nbsp;
-[![FAD 4.0 BR](https://i.postimg.cc/s2rC3YRR/FAD-4-0-br.png)](https://drive.google.com/file/d/13XIyPdRbYIwV-2pG63NCZsumSTwamNKz/view)&nbsp;
-[![FAE 4.0 BR](https://i.postimg.cc/7Lkrq3y4/FAE-4-0-br.png)](https://drive.google.com/file/d/1QtBGcKScamFhxn0A4SCtYbjcLmU2CKkN/view)&nbsp;
-[![FAE 3.0 BR](https://i.postimg.cc/ZqSzJ8hz/FAE-3-0-br.png)](https://drive.google.com/file/d/1ntb7OlUK8niom9TuPunf9xBcSg7fwCdh/view)
-
-</div>
-
 
 ```python
 @dataclass
