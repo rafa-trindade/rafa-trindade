@@ -6,6 +6,21 @@
 
 </div>
 
+<div align="center">
+
+[![Databricks Fundamentals](docs/badges/databricks-fundamentals.png)](https://credentials.databricks.com/1ddd8ad3-0432-4d6b-a280-251f3b7e929a)&nbsp;
+[![Airflow Fundamentals](docs/badges/airflow-fundamentals.png)](https://www.credly.com/badges/e009d579-a996-4083-858f-efa7224a7659/linked_in_profile)&nbsp;
+[![Airflow DAGs](docs/badges/airflow-dag.png)](https://www.credly.com/badges/a758b9c7-ce8f-4a03-bd88-6db21ed6f067/linked_in_profile)&nbsp;
+[![FAD 4.0 BR](docs/badges/FAD-4.0-br.png)](https://drive.google.com/file/d/13XIyPdRbYIwV-2pG63NCZsumSTwamNKz/view)&nbsp;
+[![FAE 4.0 BR](docs/badges/FAE-4.0-br.png)](https://drive.google.com/file/d/1QtBGcKScamFhxn0A4SCtYbjcLmU2CKkN/view)&nbsp;
+[![FAE 3.0 BR](docs/badges/FAE-3.0-br.png)](https://drive.google.com/file/d/1ntb7OlUK8niom9TuPunf9xBcSg7fwCdh/view)
+
+
+
+
+
+</div>
+
 ```python
 @dataclass
 class AboutMe:
