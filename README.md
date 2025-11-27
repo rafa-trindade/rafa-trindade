@@ -33,7 +33,7 @@ class AboutMe:
 ```
 
 <div align="justify">
-Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em Engenharia de Dados para apoiar decisões estratégicas, com expertise em Data & Analytics Engineering. Domínio de ferramentas como Power BI, SQL, Python, DBT, Docker e Airflow. Apaixonado por transformar dados em insights acionáveis, otimizar processos e impulsionar decisões críticas. Aberto a oportunidades em projetos desafiadores com foco em impacto e geração de valor.
+Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em Engenharia e Análise de Dados de Dados para apoiar decisões estratégicas, com expertise em Data & Analytics Engineering. Domínio de ferramentas como Power BI, SQL, Python, DBT, Docker e Airflow. Apaixonado por transformar dados em insights acionáveis, otimizar processos e impulsionar decisões críticas. Aberto a oportunidades em projetos desafiadores com foco em impacto e geração de valor.
 
 </div>
 
@@ -41,9 +41,8 @@ Sólida experiência em gestão financeira e operacional, incluindo o desenvolvi
 
 <div align="center">
 
-![Gestão](https://img.shields.io/badge/-Gestão-2B5482?style=flat)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-2B5482?style=flat)
 ![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat)
+![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-2B5482?style=flat)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat)
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat)
