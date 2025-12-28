@@ -8,15 +8,14 @@ class AboutMe:
     
     preferred_tech_stack: List[str] = field(
         default_factory=lambda: [
-            "Power BI", "SQL", "Python", "DBT", 
-            "Snowflake", "Databricks", "Airflow",
+            "Python", "PySpark", "SQL", "DBT", 
+            "DuckDB", "ETL/ELT", "Apache Airflow",
             "Terraform", "Docker", "Kubernetes"
         ]
     )
     
     applied_in: List[str] = field(
         default_factory=lambda: [
-            "Business Intelligence",
             "Analytics Engineering",
             "Data Engineering",
             "Workflow Automation"
@@ -25,7 +24,8 @@ class AboutMe:
 ```
 
 <div align="justify">
-Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em Engenharia e Análise de Dados para apoiar decisões estratégicas, com expertise em Data & Analytics Engineering. Domínio de ferramentas como Power BI, SQL, Python, DBT, Docker e Airflow. Apaixonado por transformar dados em insights acionáveis, otimizar processos e impulsionar decisões críticas. Aberto a oportunidades em projetos desafiadores com foco em impacto e geração de valor.
+  
+Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em Engenharia e Análise de Dados para apoiar decisões estratégicas, com expertise em Data & Analytics Engineering. Domínio de ferramentas como SQL, Python, DBT, Docker e Airflow. Apaixonado por transformar dados em insights acionáveis, otimizar processos e impulsionar decisões críticas. Aberto a oportunidades em projetos desafiadores com foco em impacto e geração de valor.
 
 </div>
 
