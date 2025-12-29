@@ -26,7 +26,7 @@ class AboutMe:
 <div align="justify">
   
   <b>Engenheiro de Dados & Analytics</b> com experiência na construção de arquiteturas eficientes, governáveis e escaláveis, com foco em performance, rastreabilidade e uso inteligente de recursos.
-  Atuação no desenvolvimento de soluções resilientes por meio de <b>engenharia orientada a dados</b>, priorizando impacto, clareza técnica e independência de ferramentas.
+  Atuação no desenvolvimento de soluções resilientes por meio de <b>engenharia orientada a dados</b>, priorizando impacto e clareza técnica acima de ferramentas específicas.
   Foco na construção de pipelines e arquiteturas analíticas que garantem confiabilidade, rastreabilidade e suporte consistente à tomada de decisão.
   Aberto a projetos de alto impacto, com foco em engenharia bem feita, escala e geração de valor sustentável.
 
