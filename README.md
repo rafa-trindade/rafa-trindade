@@ -25,9 +25,14 @@ class AboutMe:
 
 <div align="justify">
   
-Sólida experiência em gestão financeira e operacional, incluindo o desenvolvimento de sistemas proprietários para otimizar processos e resultados. Atuação com foco em Engenharia e Análise de Dados para apoiar decisões estratégicas, com expertise em Data & Analytics Engineering. Domínio de ferramentas como SQL, Python, DBT, Docker e Airflow. Apaixonado por transformar dados em insights acionáveis, otimizar processos e impulsionar decisões críticas. Aberto a oportunidades em projetos desafiadores com foco em impacto e geração de valor.
+  <b>Engenheiro de Dados & Analytics</b> com experiência na construção de arquiteturas eficientes, governáveis e escaláveis, com foco em performance, rastreabilidade e uso inteligente de recursos.
+  Atuação no desenvolvimento de soluções resilientes por meio de <b>engenharia orientada a dados</b>, priorizando impacto, clareza técnica e independência de ferramentas.
+  Foco na construção de pipelines e arquiteturas analíticas que garantem confiabilidade, rastreabilidade e suporte consistente à tomada de decisão.
+  Aberto a projetos de alto impacto, com foco em engenharia bem feita, escala e geração de valor sustentável.
 
 </div>
+
+<div align="center">𝗗𝗔𝗧𝗔-𝗗𝗥𝗜𝗩𝗘𝗡 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚, 𝗡𝗢𝗧 𝗧𝗢𝗢𝗟-𝗗𝗥𝗜𝗩𝗘𝗡</div>
 
 </br>
 
