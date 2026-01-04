@@ -88,10 +88,6 @@ class Portfolio:
 </div>
 
 ```python
-    ]
-```
-
-```python
 📘 Portfolio.cases[
 ```
 
@@ -100,9 +96,5 @@ class Portfolio:
 [![Kaggle Dathub](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=RAFAEL_TRINDADE_DDF_TECH_122025&theme=github_dark_dimmed&show_owner=false&description_lines_count=4&bg_color=151B23&langs_count=3)]([https://github.com/rafa-trindade/kaggle-datahub](https://github.com/rafa-trindade/RAFAEL_TRINDADE_DDF_TECH_122025))
 
 </div>
-
-```python
-    ]
-```
 
 [![rafa-trindade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=false&radius=10&height=350&bg_color=151B23&line=2c5a95&point=2B5482)](https://github.com/rafa-trindade)
