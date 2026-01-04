@@ -34,7 +34,7 @@ class AboutMe:
 
 <div align="center">𝗗𝗔𝗧𝗔-𝗗𝗥𝗜𝗩𝗘𝗡 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚, 𝗡𝗢𝗧 𝗧𝗢𝗢𝗟-𝗗𝗥𝗜𝗩𝗘𝗡</div>
 
-</br>
+---
 
 <div align="center">
 
