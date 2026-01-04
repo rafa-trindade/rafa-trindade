@@ -63,7 +63,8 @@ class AboutMe:
 @dataclass
 class Portfolio:
     projects: List[Project] = field(default_factory=list)
-    cases: List[Case] = field(default_factory=list)</code></pre>
+    cases: List[Case] = field(default_factory=list)
+    languages: List[str] = field(default_factory=list)
 ```
 
 ```python
@@ -82,7 +83,6 @@ class Portfolio:
 [![PetStore Transform Load](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-etl&theme=github_dark_dimmed&show_owner=false&description_lines_count=4&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/petstore-etl)
 [![PetStore BI](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-bi&theme=github_dark_dimmed&show_owner=false&description_lines_count=4&bg_color=151B23&langs_count=10&langs_count=9)](https://github.com/rafa-trindade/petstore-bi)
 [![PDP Hospedagem](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=4&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/pdp-hospedagem)
-[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=controle-contas,web-embritania&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Data Faker](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=datafaker-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=2&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/datafaker-rafatrindade)-->
 
 </div>
@@ -94,6 +94,15 @@ class Portfolio:
 <div align="center">
 
 [![Kaggle Dathub](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=RAFAEL_TRINDADE_DDF_TECH_122025&theme=github_dark_dimmed&show_owner=false&description_lines_count=4&bg_color=151B23&langs_count=3)]([https://github.com/rafa-trindade/kaggle-datahub](https://github.com/rafa-trindade/RAFAEL_TRINDADE_DDF_TECH_122025))
+
+</div>
+
+```python
+💻 Portfolio.languages[
+```
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=controle-contas,web-embritania&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
