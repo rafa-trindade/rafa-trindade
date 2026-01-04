@@ -102,7 +102,7 @@ class Portfolio:
 ```
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=controle-contas,web-embritania&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&layout=normal&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=1200&langs_count=6&exclude_repo=rafa-trindade.github.io,controle-contas,web-embritania,github-readme-stats-rafatrindade&size_weight=0.5&count_weight=0.5&hide_progress)](https://github.com/rafa-trindade)
 
 </div>
 
