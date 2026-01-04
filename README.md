@@ -59,6 +59,8 @@ class AboutMe:
 
 </div>
 
+---
+
 ```python
 @dataclass
 class Portfolio:
