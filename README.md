@@ -106,4 +106,6 @@ class Portfolio:
 
 </div>
 
+---
+
 [![rafa-trindade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=false&radius=10&height=350&bg_color=151B23&line=2c5a95&point=2B5482)](https://github.com/rafa-trindade)
