@@ -68,13 +68,11 @@ class AboutMe:
 class Project:
     name: str
     description: str
-    technologies: List[str]
 
 @dataclass
 class Case:
     name: str
     description: str
-    technologies: List[str]
 
 @dataclass
 class Portfolio:
