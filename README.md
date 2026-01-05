@@ -66,8 +66,8 @@ class AboutMe:
 ```python
 @dataclass
 class Portfolio:
-    projects: List[Project] = field(default_factory=list)
-    cases: List[Case] = field(default_factory=list)
+    projects: List[Project] = field(default_factory=list) # personal portfolio projects
+    cases: List[Case] = field(default_factory=list) # interview & hackathon case studies
 ```
 
 ```python
