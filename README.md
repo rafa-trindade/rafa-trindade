@@ -71,7 +71,7 @@ class Portfolio:
 ```
 
 ```python
-📦 Portfolio.projects[
+📦 Portfolio.projects[] # displayed below
 ```
 
 <div align="center">
@@ -92,7 +92,7 @@ class Portfolio:
 </div>
 
 ```python
-📘 Portfolio.cases[
+📘 Portfolio.cases[] # displayed below
 ```
 
 <div align="center">
