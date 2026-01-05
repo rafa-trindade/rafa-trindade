@@ -92,7 +92,7 @@ class Portfolio:
 </div>
 
 ```python
-📘 Portfolio.cases[] # displayed below
+📦 Portfolio.cases[] # displayed below
 ```
 
 <div align="center">
