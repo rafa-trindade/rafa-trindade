@@ -44,7 +44,6 @@ class AboutMe:
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat)
 ![Policy as Code](https://img.shields.io/badge/-Policy%20as%20Code-2B5482?style=flat)
 ![Observability as Code](https://img.shields.io/badge/-Observability%20as%20Code-2B5482?style=flat)
-![Data Contracts](https://img.shields.io/badge/-Data%20Contracts-2B5482?style=flat)
 ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat)
 
 </div>
