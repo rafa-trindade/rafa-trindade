@@ -25,7 +25,7 @@ class AboutMe:
 
 <div align="justify">
   
-  <b>Engenheiro de Dados & Analytics</b> com experiência na construção de arquiteturas eficientes, governáveis e escaláveis, com foco em performance, rastreabilidade e uso inteligente de recursos.
+  <b>Engenheiro de Dados & Analytics</b> com experiência em construção de arquiteturas eficientes, governáveis e escaláveis, com foco em performance, rastreabilidade e uso inteligente de recursos.
   Atuação no desenvolvimento de soluções resilientes por meio de <b>engenharia orientada a dados</b>, priorizando impacto e clareza técnica acima de ferramentas específicas.
   Foco na construção de pipelines e arquiteturas analíticas que garantem confiabilidade, rastreabilidade e suporte consistente à tomada de decisão.
   Aberto a projetos de alto impacto, com foco em engenharia bem feita, escala e geração de valor sustentável.
@@ -42,8 +42,9 @@ class AboutMe:
 ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-2B5482?style=flat)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat)
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat)
-![Data Governance](https://img.shields.io/badge/-Data%20Governance-2B5482?style=flat)
-![Observability](https://img.shields.io/badge/-Observability-2B5482?style=flat)
+![Policy as Code](https://img.shields.io/badge/-Policy%20as%20Code-2B5482?style=flat)
+![Observability as Code](https://img.shields.io/badge/-Observability%20as%20Code-2B5482?style=flat)
+![Data Contracts](https://img.shields.io/badge/-Data%20Contracts-2B5482?style=flat)
 ![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-2B5482?style=flat)
 
 </div>
