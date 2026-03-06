@@ -52,7 +52,7 @@ class AboutMe:
 
 <div align="center">
 
-[![OCI Infra](docs/badges/oci-infra.png)]([https://credentials.databricks.com/1ddd8ad3-0432-4d6b-a280-251f3b7e929a](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30086A4A3D1225961E33215DCB6789E59475E2BD461858926ACD251246069B1B))&nbsp;
+[![OCIInfra](docs/badges/oci-infra.png)]([https://credentials.databricks.com/1ddd8ad3-0432-4d6b-a280-251f3b7e929a](https://catalog-education.oracle.com/ords/certview/sharebadge?id=30086A4A3D1225961E33215DCB6789E59475E2BD461858926ACD251246069B1B))&nbsp;
 [![Databricks Fundamentals](docs/badges/dtb-fundamentals.png)](https://credentials.databricks.com/1ddd8ad3-0432-4d6b-a280-251f3b7e929a)&nbsp;
 [![Airflow Fundamentals](docs/badges/af-fundamentals.png)](https://www.credly.com/badges/e009d579-a996-4083-858f-efa7224a7659/linked_in_profile)&nbsp;
 [![Airflow DAGs](docs/badges/af-dag.png)](https://www.credly.com/badges/a758b9c7-ce8f-4a03-bd88-6db21ed6f067/linked_in_profile)&nbsp;
