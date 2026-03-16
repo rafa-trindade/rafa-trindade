@@ -62,6 +62,7 @@ class AboutMe:
 
 </div>
 
+<!--
 ---
 
 ```python
@@ -117,7 +118,7 @@ class Portfolio:
 [![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=RAFAEL_TRINDADE_DDF_TECH_122025,squad3-airflow-orchestration,squad3-analytics-engineering,squad3-data-engineering,rafa-trindade.github.io,rafa-trindade,kaggle-datahub,github-readme-stats-rafatrindade,oncoped-360,pdp-analytics-engineering,jornada-sql,local-data-infra,controle-contas,petstore-pipeline,petstore-bi,datafaker-rafatrindade,petstore-etl,petstore-scraping,dashboard-grupotamburi,dashboard-rafatrindade,dashboard-elisaagro,contador-python&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/rafa-trindade)
 
 </div>
-
+-->
 ---
 
 [![rafa-trindade github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafa-trindade&theme=react&hide_border=true&hide_title=false&radius=10&height=350&bg_color=151B23&line=2c5a95&point=2B5482)](https://github.com/rafa-trindade)
