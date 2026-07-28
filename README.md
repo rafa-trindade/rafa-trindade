@@ -4,12 +4,12 @@ class AboutMe:
   
     name: str = "Rafael Araujo Trindade"
     
-    profession: str = "Data & Analytics Professional"
+    profession: str = "Data Engineer Professional"
     
     preferred_tech_stack: List[str] = field(
         default_factory=lambda: [
-            "Python", "PySpark", "SQL", "DBT", 
-            "DuckDB", "ETL/ELT", "Apache Airflow",
+            "Python", "PySpark", "SQL", "DBT", "DuckDB",
+            "ETL/ELT", "Apache Airflow", "FastAPI",
             "Terraform", "Docker", "Kubernetes"
         ]
     )
@@ -25,13 +25,7 @@ class AboutMe:
 
 <div align="justify">
   
-<b>Engenheiro de Dados & Analytics</b> unindo sólida base técnica em desenvolvimento e visão de negócio.
-Especialista em construir pipelines (ETL/ELT) e arquiteturas de dados eficientes de ponta a ponta
-(Python, SQL, Airflow, dbt, Cloud), implementando governança e modelagem moderna. Com histórico de
-gestão e liderança, traduzo as dores e objetivos da empresa em arquiteturas de dados seguras e com
-uso inteligente de recursos, além de facilitar a comunicação e o alinhamento estratégico entre as
-áreas de negócio e as equipes técnicas. Aberto a projetos de alto
-impacto, com foco em engenharia bem feita, escala e geração de valor sustentável.
+<b>Engenheiro de Dados & Analytics</b> combinando sólida base técnica com a maturidade executiva de quem já esteve à frente de operações de negócios. Focado na construção hands-on de pipelines ETL/ELT e arquiteturas escaláveis de ponta a ponta. Trago a visão de quem entende o impacto dos dados na margem de lucro, aliada à postura focada na execução técnica diária. Busco atuar no desenvolvimento e otimização de infraestruturas de dados, compondo times colaborativos onde eu possa aplicar fundamentos sólidos, governança e entregar valor sustentável desde o primeiro dia. Autor de artigos técnicos sobre arquiteturas modernas e a importância dos fundamentos na engenharia de dados. 
 
 </div>
 
@@ -41,8 +35,8 @@ impacto, com foco em engenharia bem feita, escala e geração de valor sustentá
 
 <div align="center">
 
-![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat)
 ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-2B5482?style=flat)
+![Analytics Engineering](https://img.shields.io/badge/-Analytics%20Engineering-2B5482?style=flat)
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-2B5482?style=flat)
 ![Data Quality](https://img.shields.io/badge/-Data%20Quality-2B5482?style=flat)
 ![Policy as Code](https://img.shields.io/badge/-Policy%20as%20Code-2B5482?style=flat)
