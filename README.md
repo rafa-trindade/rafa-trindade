@@ -119,10 +119,18 @@ class Portfolio:
 ---
 
 <div align="center">
+  <!-- GitHub Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=151B23" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=151B23" height="165" alt="GitHub Streak" />
+</div>
 
-<img
-  src="https://ghchart.rshah.org/2B5482/rafa-trindade"
-  alt="Contribuições no GitHub"
-/>
+<br>
 
+<div align="center">
+  <!-- GitHub Contributions Chart -->
+  <img
+    src="https://ghchart.rshah.org/2B5482/rafa-trindade"
+    alt="Contribuições no GitHub"
+    width="845"
+  />
 </div>
