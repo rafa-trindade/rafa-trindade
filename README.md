@@ -2,7 +2,7 @@
 @dataclass
 class AboutMe:
   
-    name: str = "Rafael Araujo Trindade"
+    name: str = "Raphael Trindade"
     
     profession: str = "Data Engineer Professional"
     
