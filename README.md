@@ -117,21 +117,20 @@ class Portfolio:
 </div>
 -->
 ---
-
 <div align="center">
   
-  <!-- GitHub Stats dinâmico (Fundo Corrigido para 00000000) -->
+  <!-- GitHub Stats dinâmico (Fundo Transparente COM Borda) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=default&bg_color=00000000&hide_border=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000&hide_border=true" height="165" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=default&bg_color=00000000">
+    <img src="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" height="165" alt="GitHub Stats" />
   </picture>
 
-  <!-- GitHub Streak dinâmico (Funciona com a palavra transparent) -->
+  <!-- GitHub Streak dinâmico (Fundo Transparente COM Borda) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=transparent&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=default&background=transparent&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=transparent&hide_border=true" height="165" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=transparent">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=default&background=transparent">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=transparent" height="165" alt="GitHub Streak" />
   </picture>
 
 </div>
