@@ -59,74 +59,16 @@ Engenheiro de Dados focado na construção de pipelines, plataformas e infraestr
 
 </div>
 
-<!--
 ---
 
-```python
-@dataclass
-class Portfolio:
-    projects: List[Project] = field(default_factory=list)
-    cases: List[Case] = field(default_factory=list)
-    products: List[Product] = field(default_factory=list)
-```
-
-```python
-📦 Portfolio.projects[] # personal data projects
-```
-
-<div align="center">
-
-[![Kaggle Dathub](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=kaggle-datahub&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=3)](https://github.com/rafa-trindade/kaggle-datahub)
-[![oncoped-data-br](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=oncoped-360&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/oncoped-360)
-[![PetStore Pipeline](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-pipeline&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=6)](https://github.com/rafa-trindade/petstore-pipeline)
-[![pdp-analytics-engineering](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-analytics-engineering&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/pdp-analytics-engineering)
-[![PetStore Scraping](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-scraping&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/petstore-scraping)
-[![PetStore Transform Load](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-etl&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/petstore-etl)
-[![PetStore BI](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=petstore-bi&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=10&langs_count=9)](https://github.com/rafa-trindade/petstore-bi)
-[![Local Data Infra](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=local-data-infra&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/local-data-infra)
-[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=rafa-trindade.github.io,rafa-trindade,github-readme-stats-rafatrindade,jornada-sql,web-embritania,controle-contas,pdp-hospedagem,b2b-grupotamburi,bi-rafatrindade,datafaker-rafatrindade,dashboard-grupotamburi,dashboard-rafatrindade,dashboard-elisaagro,contador-python,petstore-bi&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/rafa-trindade)
-
-
-</div>
-
-```python
-📦 Portfolio.cases[] # interview & hackathon case studies
-```
-
-<div align="center">
-
-[![Dadosfera](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=RAFAEL_TRINDADE_DDF_TECH_122025&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/RAFAEL_TRINDADE_DDF_TECH_122025)
-[![Hakathon](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=SQUAD_3_DATA_ENGINEERING&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=10)](https://github.com/rafa-trindade/SQUAD_3_DATA_ENGINEERING)
-[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=rafa-trindade.github.io,rafa-trindade,kaggle-datahub,github-readme-stats-rafatrindade,oncoped-360,jornada-sql,local-data-infra,web-embritania,controle-contas,pdp-hospedagem,petstore-pipeline,petstore-bi,b2b-grupotamburi,bi-rafatrindade,datafaker-rafatrindade,petstore-etl,petstore-scraping,dashboard-grupotamburi,dashboard-rafatrindade,dashboard-elisaagro,contador-python&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/rafa-trindade)
-
-</div>
-
-
-```python
-📦 Portfolio.products[] # built software & web products
-```
-
-<div align="center">
-
-[![PDP Hospedagem](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=pdp-hospedagem&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/pdp-hospedagem)
-[![BI rafatrindade](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=bi-rafatrindade&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/bi-rafatrindade)
-[![Dashboard Grupotamburi](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=b2b-grupotamburi&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/b2b-grupotamburi)
-[![Web Em britania](https://github-readme-stats-rafatrindade.vercel.app/api/pin/?username=rafa-trindade&repo=web-embritania&theme=github_dark_dimmed&show_owner=false&description_lines_count=3&bg_color=151B23&langs_count=9)](https://github.com/rafa-trindade/web-embritania)
-[![Top Langs](https://github-readme-stats-rafatrindade.vercel.app/api/top-langs/?username=rafa-trindade&theme=github_dark_dimmed&bg_color=151B23&hide_title=true&card_width=804&langs_count=4&exclude_repo=RAFAEL_TRINDADE_DDF_TECH_122025,squad3-airflow-orchestration,squad3-analytics-engineering,squad3-data-engineering,rafa-trindade.github.io,rafa-trindade,kaggle-datahub,github-readme-stats-rafatrindade,oncoped-360,pdp-analytics-engineering,jornada-sql,local-data-infra,controle-contas,petstore-pipeline,petstore-bi,datafaker-rafatrindade,petstore-etl,petstore-scraping,dashboard-grupotamburi,dashboard-rafatrindade,dashboard-elisaagro,contador-python&size_weight=0.5&count_weight=0.5&hide_progress&layout=compact)](https://github.com/rafa-trindade)
-
-</div>
--->
----
 <div align="center">
   
-  <!-- GitHub Stats dinâmico (Fundo Transparente COM Borda) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=default&bg_color=00000000">
     <img src="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" height="165" alt="GitHub Stats" />
   </picture>
 
-  <!-- GitHub Streak dinâmico (Fundo Transparente COM Borda) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=github-dark-dimmed&background=transparent">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rafa-trindade&theme=default&background=transparent">
@@ -138,7 +80,6 @@ class Portfolio:
 <br>
 
 <div align="center">
-  <!-- GitHub Contributions Chart -->
   <img
     src="https://ghchart.rshah.org/2B5482/rafa-trindade"
     alt="Contribuições no GitHub"
