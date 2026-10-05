@@ -66,7 +66,7 @@ Engenheiro de Dados focado na construção de pipelines, plataformas e infraestr
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=default&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-rafatrindade.vercel.app/api?username=rafa-trindade&show_icons=true&theme=github_dark_dimmed&bg_color=00000000" height="165" alt="GitHub Stats" />
   </picture>
 
   <picture>
